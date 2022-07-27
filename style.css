@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    outline: none;
+    font-family: sans-serif Verdana;
+}
+.container-fluid{
+    background-color: rgba(255, 123, 123, 0.8);
+}
+
+form>input {
+    outline: none;
+    border: transparent; 
+    border-radius: 5px;
+    min-height: 36px; 
+    width:100%; 
+} 
+input::placeholder { 
+    padding-left: 3px;
+  }
+button{
+    width:100%; 
+    min-height: 40px; 
+    border-radius: 12px !important;
+    background-color: black;
+    color: white;
+    border: none; 
+}
+div span, div a{
+    color: white;
+}

@@ -1,0 +1,8 @@
+openapi: 3.0.1
+info:
+  title: Expenditure management
+  description: 'This is a Expenditure management server'
+tags:
+- name: 
+paths:
+  
